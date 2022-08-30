@@ -9,4 +9,4 @@ As for obf-dotnet, **ALOT** of junk was removed to specifcally fit the 100 file 
 This was created as a Lua VM based obfuscator, to essentially hide your code from a readable eye. This was leaked by a internal developer of mine essentially right after we had completed the project. The developer did not help with this project, as he was a web-based html guy only. This project was sold to people without my permission and without any forum of acknowledgement by me.
 
 
-ps. bot-dotnet is a mess and useless, you want to look at obf-dotnet, bot was thrown in there just for the hell of it.
+ps. bot-dotnet is a mess and useless, you want to look at obf-dotnet, bot was thrown in there just for the hell of it. the secondary repo (https://github.com/xehuq/PSUBotTestDOJ) was the new bot that was created.
