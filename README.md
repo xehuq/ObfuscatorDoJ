@@ -10,3 +10,14 @@ This was created as a Lua VM based obfuscator, to essentially hide your code fro
 
 
 ps. bot-dotnet is a mess and useless, you want to look at obf-dotnet, bot was thrown in there just for the hell of it. the secondary repo (https://github.com/xehuq/PSUBotTestDOJ) was the new bot that was created.
+
+
+
+// 
+
+
+Various other projects are hosted on the Roblox platform, I obviously cannot put these on github as all of them I was contracted on. These are lua specific.
+
+https://www.roblox.com/groups/12425385/NapoIeonic-Wars#!/about - over 20 Million visits
+
+https://www.roblox.com/games/633284182/Fireteam-v0-2-0e 7.8 Million visits
