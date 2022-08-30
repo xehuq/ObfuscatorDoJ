@@ -18,6 +18,6 @@ ps. bot-dotnet is a mess and useless, you want to look at obf-dotnet, bot was th
 
 Various other projects are hosted on the Roblox platform, I obviously cannot put these on github as all of them I was contracted on. These are lua specific.
 
-https://www.roblox.com/groups/12425385/NapoIeonic-Wars#!/about - over 20 Million visits
+https://www.roblox.com/groups/12425385/NapoIeonic-Wars#!/about - over 4 Million visits
 
 https://www.roblox.com/games/633284182/Fireteam-v0-2-0e 7.8 Million visits
