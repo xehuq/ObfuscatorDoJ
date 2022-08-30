@@ -16,7 +16,9 @@ ps. bot-dotnet is a mess and useless, you want to look at obf-dotnet, bot was th
 // 
 
 
-Various other projects are hosted on the Roblox platform, I obviously cannot put these on github as all of them I was contracted on. These are lua specific.
+Various other projects are hosted on the Roblox platform, I obviously cannot put these on github as all of them I was contracted on. These are lua specific, and only a fraction of the games I have worked on. 
+
+These are projects I am currently on.
 
 https://www.roblox.com/groups/12425385/NapoIeonic-Wars#!/about - over 4 Million visits
 
